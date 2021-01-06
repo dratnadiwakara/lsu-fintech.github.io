@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 # About the Lab
 
 Welcome to the FinTech Lab @ LSU!
